@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>daw06</h1>
-    <p>sergio lopez continente</p>
-    <p>25191540p</p>
+    <p>nombre: sergio lopez continente</p>
+    <p>dni: 25191540p</p>
 </body>
 </html>
